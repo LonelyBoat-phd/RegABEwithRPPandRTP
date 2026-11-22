@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated RegABE manuscript and identify the exact artifact commit or release used."
+title: "RegABE reference implementation"
+version: "1.3.2"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Gangyi

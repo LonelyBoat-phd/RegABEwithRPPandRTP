@@ -1,0 +1,19 @@
+RegABE reference artifact - provenance and third-party notices
+
+The project-specific implementation and experiment scripts were generated using
+AI tools, as reported by the author. This statement does not describe the
+third-party PBC library or other external dependencies.
+
+The supplied artifact records lineage from the Python prototypes
+RegABE_TIFS_v25_prototype / regabe-v25-python-research, following the RegABE TIFS
+v25 manuscript. Its matrix reconstruction was described as following the
+algorithmic behavior of a supplied Java LsssPolicy implementation.
+
+No explicit project/upstream prototype license accompanied the supplied code.
+This packaging update does not assign a project-wide license or grant rights
+on behalf of upstream authors. Recorded lineage is retained for clarification
+by the rights holder before selecting a project license.
+
+PBC 0.5.14 is distributed as its supplied source archive under vendor/ with
+SHA-256 verification and its accompanying license. Third-party dependencies
+retain their respective licenses. No additional rights to them are granted.

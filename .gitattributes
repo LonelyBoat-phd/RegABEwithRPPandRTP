@@ -1,0 +1,17 @@
+# Keep every text file LF on all platforms so SHA256SUMS stays stable.
+* text=auto eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+*.lock text eol=lf
+*.param text eol=lf
+*.csv text eol=lf
+# Vendored and generated binary payloads.
+*.tar.gz binary -text
+*.png binary -text
+*.pdf binary -text
